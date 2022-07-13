@@ -13,7 +13,7 @@ What is activity and Life cycle of the activity
 ## Introduction about android:
 Android is a Linux-based mobile operating system, designed primarily for touchscreen mobile devices such as smartphones and tablets.
 
-Android Versions:
+## Android Versions:
 Android 1.0
 Android 1.1
 Android 1.5 Cupcake
@@ -36,14 +36,15 @@ Android 12
 Android 13 Beta
 
 
-Install Android Studio
+## Install Android Studio
 https://developer.android.com/studio
 
-What is activity and Life cycle of the activity
+## What is activity and Life cycle of the activity
 An Android activity is one screen of the Android app's user interface. In that way an Android activity is very similar to windows in a desktop application. An Android app may contain one or more activities, meaning one or more screens.
 
 
 
+![Android-Activity-Lifecycle](https://user-images.githubusercontent.com/6571244/178709620-bd3d475c-eb12-4600-a6a9-03a29032d1cb.png)
 
 
 
