@@ -20,6 +20,7 @@ class FirstActivity : AppCompatActivity() {
         findViewById<Button>(R.id.second_btn).setOnClickListener {
             startActivity(Intent(this, SecondActivity::class.java))
         }
+
         Log.d(TAG, "onCreate()")
 
     }
