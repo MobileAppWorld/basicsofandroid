@@ -14,26 +14,26 @@ What is activity and Life cycle of the activity
 Android is a Linux-based mobile operating system, designed primarily for touchscreen mobile devices such as smartphones and tablets.
 
 ## Android Versions:
-Android 1.0
-Android 1.1
-Android 1.5 Cupcake
-Android 1.6 Donut
-Android 2.0 Eclair
-Android 2.2 Froyo
-Android 2.3 Gingerbread
-Android 3.0 Honeycomb
-Android 4.0 Ice Cream Sandwich 
-Android 4.1 Jelly Bean
-Android 4.4 KitKat
-Android 5.0 Lollipop
-Android 6.0 Marshmallow
-Android 7.0 Nougat
-Android 8.0 Oreo
-Android 9 Pie
-Android 10
-Android 11
-Android 12
-Android 13 Beta
+1. Android 1.0
+2. Android 1.1
+3. Android 1.5 Cupcake
+4. Android 1.6 Donut
+5. Android 2.0 Eclair
+6. Android 2.2 Froyo
+7. Android 2.3 Gingerbread
+8. Android 3.0 Honeycomb
+9. Android 4.0 Ice Cream Sandwich 
+10. Android 4.1 Jelly Bean
+11. Android 4.4 KitKat
+12. Android 5.0 Lollipop
+13. Android 6.0 Marshmallow
+14. Android 7.0 Nougat
+15. Android 8.0 Oreo
+16. Android 9 Pie
+17. Android 10
+18. Android 11
+19. Android 12
+20. Android 13 Beta
 
 
 ## Install Android Studio
